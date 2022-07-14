@@ -14,6 +14,7 @@
 		BDCAE7822880850000024008 /* segues.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BDCAE7802880850000024008 /* segues.xcdatamodeld */; };
 		BDCAE7842880850000024008 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDCAE7832880850000024008 /* Assets.xcassets */; };
 		BDCAE7872880850000024008 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDCAE7852880850000024008 /* LaunchScreen.storyboard */; };
+		BDCAE78F2880859300024008 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDCAE78E2880859300024008 /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		BDCAE7832880850000024008 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BDCAE7862880850000024008 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BDCAE7882880850000024008 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BDCAE78E2880859300024008 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				BDCAE7772880850000024008 /* AppDelegate.swift */,
 				BDCAE7792880850000024008 /* SceneDelegate.swift */,
 				BDCAE77B2880850000024008 /* ViewController.swift */,
+				BDCAE78E2880859300024008 /* ViewController2.swift */,
 				BDCAE77D2880850000024008 /* Main.storyboard */,
 				BDCAE7832880850000024008 /* Assets.xcassets */,
 				BDCAE7852880850000024008 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BDCAE78F2880859300024008 /* ViewController2.swift in Sources */,
 				BDCAE77C2880850000024008 /* ViewController.swift in Sources */,
 				BDCAE7782880850000024008 /* AppDelegate.swift in Sources */,
 				BDCAE77A2880850000024008 /* SceneDelegate.swift in Sources */,
